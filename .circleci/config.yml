@@ -12,7 +12,7 @@ jobs:
            cd dump
            curl -o .githubtoken $APIGIT
            curl -o .tgtoken $APIBOT
-           bash dumpyara.sh https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus8Oxygen/OnePlus8Oxygen_15.X.13_GLO_0130_2010200210/OnePlus8Oxygen_15.X.13_OTA_0130_all_2010200210_2212444caa80d3.zip
+           bash dumpyara.sh https://xiaomifirmwareupdater.com/miui/ysl/stable/V10.3.1.0.OEFMIXM/0210_2212444caa80d3.zip
 workflows:
   version: 2.1
   cooking:
