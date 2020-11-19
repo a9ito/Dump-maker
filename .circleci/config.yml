@@ -12,7 +12,7 @@ jobs:
            cd dump
            curl -o .githubtoken $APIGIT
            curl -o .tgtoken $APIBOT
-           bash dumpyara.sh http://bigota.d.miui.com/V10.3.1.0.OEFMIXM/miui_HMS2Global_V10.3.1.0.OEFMIXM_d4e3833b2b_8.1.zip
+           bash dumpyara.sh https://bigota.d.miui.com/V11.0.2.0.OEGMIXM/miui_HM5PlusGlobal_V11.0.2.0.OEGMIXM_f74369de0c_8.1.zip
 workflows:
   version: 2.1
   cooking:
