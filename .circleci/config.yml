@@ -12,7 +12,7 @@ jobs:
            cd dump
            curl -o .githubtoken $APIGIT
            curl -o .tgtoken $APIBOT
-           bash dumpyara.sh https://bigota.d.miui.com/V11.0.14.0.QDLMIXM/miui_DAISYGlobal_V11.0.14.0.QDLMIXM_7c2e1a2bc7_10.0.zip
+           bash dumpyara.sh https://dl.google.com/dl/android/aosp/redfin-ota-rd1a.201105.003.c1-efadb0b6.zip
 workflows:
   version: 2.1
   cooking:
