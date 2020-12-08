@@ -12,7 +12,7 @@ jobs:
            cd dump
            curl -o .githubtoken $APIGIT
            curl -o .tgtoken $APIBOT
-           bash dumpyara.sh https://dl.google.com/dl/android/aosp/redfin-ota-rq1a.201205.011-d13beb06.zip
+           bash dumpyara.sh https://dl.google.com/dl/android/aosp/coral-ota-rq1a.201205.008-4c96a599.zip
 workflows:
   version: 2.1
   cooking:
