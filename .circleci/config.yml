@@ -12,7 +12,7 @@ jobs:
            cd dump
            curl -o .githubtoken $APIGIT
            curl -o .tgtoken $APIBOT
-           bash dumpyara.sh https://dl.google.com/dl/android/aosp/coral-ota-rq1a.201205.008-4c96a599.zip
+           bash dumpyara.sh https://bigota.d.miui.com/V9.5.14.0.OEFMIFA/miui_HMS2Global_V9.5.14.0.OEFMIFA_3edd384da9_8.1.zip
 workflows:
   version: 2.1
   cooking:
