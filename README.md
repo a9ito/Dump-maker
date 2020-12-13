@@ -1,5 +1,6 @@
 # dumpyara ci
 
-Personal CirceCi dumpyara script 
+Personal CircaCi dumpyara script
 
-[**Dumps**](https://git.rip/ItsVixano/dumpyara)
+[**Dumps**](https://git.rip/a9ito/dumpyara)
+[**Telegram**](https://t.me/a9itodumb)
